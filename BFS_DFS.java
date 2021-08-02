@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class Graph_1 {
+public class BFS_DFS {
 	private ArrayList<ArrayList<Integer>> adj;
 	private int vertex;
 	
